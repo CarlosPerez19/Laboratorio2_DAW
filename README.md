@@ -2,6 +2,7 @@
 # Laboratorio2 DAW_Carlos Pérez
 
 
+![image](https://github.com/user-attachments/assets/b330f1f9-b75a-46b9-86f1-8415d05d21c2)
 
 
 ## API Reference
